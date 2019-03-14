@@ -204,7 +204,46 @@
     <!-- Team Numbers drop down array -->
     <string-array name="teamNumbers">
         <item>Select Team Number</item>
-        <item>NA</item>
+        <item>7160</item>
+        <item>858</item>
+        <item>1711</item>
+        <item>2405</item>
+        <item>3458</item>
+        <item>3546</item>
+        <item>3572</item>
+        <item>3603</item>
+        <item>3618</item>
+        <item>3767</item>
+        <item>4004</item>
+        <item>4337</item>
+        <item>4376</item>
+        <item>4398</item>
+        <item>4956</item>
+        <item>4967</item>
+        <item>5114</item>
+        <item>5247</item>
+        <item>5255</item>
+        <item>5860</item>
+        <item>6005</item>
+        <item>6020</item>
+        <item>6065</item>
+        <item>6074</item>
+        <item>6090</item>
+        <item>6094</item>
+        <item>6097</item>
+        <item>6098</item>
+        <item>6100</item>
+        <item>6122</item>
+        <item>6128</item>
+        <item>6561</item>
+        <item>6582</item>
+        <item>7054</item>
+        <item>7602</item>
+        <item>7689</item>
+        <item>7790</item>
+        <item>7794</item>
+        <item>7810</item>
+        <item>7855</item>
 
     </string-array>
 
